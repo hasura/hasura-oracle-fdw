@@ -72,3 +72,10 @@ They should now be visible under your DB tables/views on the lefthand side.
 ## 5. Query the views
 
 You can now query the views using GraphQL, or browse them from your data dashboard
+
+
+## More information
+
+For more information, see the following link:
+
+https://aws.amazon.com/blogs/big-data/join-amazon-redshift-and-amazon-rds-postgresql-with-dblink/
